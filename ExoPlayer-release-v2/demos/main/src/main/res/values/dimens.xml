@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="size">46dp</dimen>
+    <dimen name="rudis">12dp</dimen>
+</resources>

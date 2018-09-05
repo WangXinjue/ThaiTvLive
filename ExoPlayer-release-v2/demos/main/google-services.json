@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307227796956",
+    "firebase_url": "https://thaitv-c7a0f.firebaseio.com",
+    "project_id": "thaitv-c7a0f",
+    "storage_bucket": "thaitv-c7a0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307227796956:android:1b6d83aba540d555",
+        "android_client_info": {
+          "package_name": "com.thai.tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307227796956-5cbliqup0aba6sfdos7pj3u6k1kc8345.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKP5q2eUCv7jweAFLCjfbZJbfiU4hBaFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Thai",
+    "samples": [
+      {
+        "title": "ch3",
+        "play_url": "https://u2.adintrend.com/live/ch3/i/ch3i.m3u8?sid=cjeMzg1MDFlMTc0NGZjYTA0MzJmMANjlkMjA0OTRiMWQ0NmEz"
+      },
+      {
+        "title": "ch5",
+        "play_url": "https://u2.adintrend.com/live/ch3/i/ch3i.m3u8?sid=cjeYzRjZmMzYjY5OTcxNTg1ZDA3NAMWU5ZDgxMjFlNmM0ZGU0"
+      }
+      ]
+  },
+  {
+    "name": "Thai33333333333333",
+    "samples": [
+      {
+        "title": "ch8",
+        "play_url": "https://u2.adintrend.com/live/ch3/i/ch3i.m3u8?sid=cjeYzUyYzEwMTQxNTE5NWI1ZDY1ZAMmJhODk0N2UwNThjYWM0"
+      },
+      {
+        "title": "ch9",
+        "play_url": "https://u2.adintrend.com/live/ch5/i/ch5i.m3u8?sid=cjeYmEzZGU1MmIzZDkxNTJhYTZmMANjA0N2I2ZTQ4ODYyMTM0"
+      }
+    ]
+  }
+]
